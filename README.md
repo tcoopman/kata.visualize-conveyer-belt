@@ -5,6 +5,8 @@ Implement the following 2 functions:
 * `eventsToVisualization(List[Event]) -> Visualization`
 * `visualizationToEvents(Visualization) -> List[Event])`
 
+To pass the kata, all the examples listed in the readme should work.
+
 ## Domain
 
 Given these events:
